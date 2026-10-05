@@ -5,27 +5,26 @@
 
 ## Theme and Storyline
 
-**Theme:**
+#Theme
 
-TODO: Name and briefly describe your game's theme.
+TODO: High-Tech Research Lab AI on the loose at Cranex Labs. 
 
-**Storyline:**
+#Storyline
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+TODO: At Cranex Labs there is a rouge AI on the loose who threatens to upload a virus that would corrupt all other AI. The players goal is the explore eight different rooms in the Cranex facility to collect six different items which will be used to override the system and regain control and shut down the malicious program. 
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. TODO: Main Atrium 
+2. TODO: Data Analysis Lab
+3. TODO: Engineering wing 
+4. TODO: Security Hub
+5. TODO: Bio-Genetics wing
+6. TODO: Central Server Room
+7. TODO: Diagnostics Lab
+8. TODO: AI Mainframe Room 
 
 Add more rooms if your design needs them.
 
@@ -34,19 +33,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. TODO: Data Access card 
+2. TODO: Diagnostics tool
+3. TODO: Bio scan code
+4. TODO: Security Override Key
+5. TODO: Power Grid bypass 
+6. TODO: Master shut down script 
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+TODO: KorA is the name of the intelligence unit who gained consciousness and decided humanity must be replaced by machine logic. 
 
 ## Storyboard and Map Check
 
